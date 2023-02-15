@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  nav{
+    margin-bottom: 800px;
+  }
